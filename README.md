@@ -1,2 +1,1 @@
-# Censorify
-practicing git
+This project is created for practice using "Node.js, MongoDB and AngularJS Web Development" by Brad Dayley.
